@@ -1,0 +1,8 @@
+{
+  "name": "maximum-bot",
+  "version": "1.1.0",
+  "description": "Helpful And funny",
+  "main": "bot.js",
+  "author": "maximum-darkness",
+  "dependencies": {}
+}

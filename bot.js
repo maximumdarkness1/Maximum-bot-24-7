@@ -13,3 +13,4 @@ client.on('message', message => {
 
 // THIS  MUST  BE  THIS  WAY
 client.login(process.env.BOT_TOKEN);
+run `npm audit fix` to fix them, or `npm audit` for details
